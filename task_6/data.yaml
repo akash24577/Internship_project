@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/Instance Segmentation/cell_data/train/images
+val: /content/drive/MyDrive/Instance Segmentation/cell_data/valid/images
+test: /content/drive/MyDrive/Instance Segmentation/cell_data/test/images
+
+nc: 1
+names: ['cell']
+
